@@ -1,6 +1,8 @@
 # cpod
 Real-time Outlier Detection in Data Streams
 
+Paper link: http://vldb.org/pvldb/vol14/p141-tran.pdf
+
 This project can be opened by Netbeans IDE
 
 After build project, it can be run with command
