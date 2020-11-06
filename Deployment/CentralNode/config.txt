@@ -1,0 +1,7 @@
+500
+10000
+50
+1.9
+tao.txt
+file://DESKTOP-Q1994U1/Test
+mcod_new
